@@ -1,2 +1,2 @@
 * [Perfil](README.md)
-* [Heroku](portafolio/heroku.md)
+* [Heroku](heroku.md)
