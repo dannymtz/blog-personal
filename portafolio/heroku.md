@@ -12,7 +12,7 @@ Solo me centrare en explicar el despliegue dentro de Heroku para la documentaci√
 de descarga y uso de gitbook favor de consultar mi post de gitbook.
 
 Se requiere instalar en la terminal Heroku CLI
-* Descargar de su portal para desarrolladores https://devcenter.heroku.com/articles/heroku-cli
+* Descargar de su portal para desarrolladores [https://devcenter.heroku.com/articles/heroku-cli](https://devcenter.heroku.com/articles/heroku-cli)
 
 Una vez descargada la consola y registrados en Heroku procedemos a loguearnos en la consola
 con el comando 
