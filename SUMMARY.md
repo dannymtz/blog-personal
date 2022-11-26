@@ -1,2 +1,2 @@
-* [Perfil](perfil/historiaVida.md)
+* [Perfil](README.md)
 * [Heroku](portafolio/heroku.md)
